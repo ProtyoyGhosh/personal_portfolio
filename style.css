@@ -70,3 +70,7 @@ h2 {
 .footer-ex {
   padding-left: 10px;
 }
+
+footer p {
+  text-align: center;
+}
